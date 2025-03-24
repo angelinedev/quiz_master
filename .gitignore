@@ -3,5 +3,6 @@ __pycache__/
 instance/
 *.pyc
 *.pyo
-.env
 .DS_Store
+config.bat
+node_modules
